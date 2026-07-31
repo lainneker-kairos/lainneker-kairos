@@ -4,10 +4,6 @@
 
 
 
-<img width="860" height="250" alt="archivo" src="https://github.com/user-attachments/assets/5436bfef-0731-422b-9166-0211be25ad57" />
-
-
-
 
 <!--
 **lainneker-kairos/lainneker-kairos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
