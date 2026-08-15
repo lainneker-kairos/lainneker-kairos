@@ -10,6 +10,8 @@ Mi motor diario es una profunda curiosidad técnica y el entusiasmo por resolver
 Actualmente desarrollo proyectos full-stack, exploro nuevas herramientas y contribuyo al ecosistema de desarrollo continuo.
 Si buscas un desarrollador proactivo, versátil y con una sólida motivación por seguir creciendo y creando impacto, ¡explora mis repositorios y conectemos!
 
+---
+
 ### 🛠️ Herramientas & Stack Tecnológico
 
 **Frontend:**  
@@ -31,9 +33,18 @@ Si buscas un desarrollador proactivo, versátil y con una sólida motivación po
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-
 **Control de Versiones:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+🎯 Mi Foco Actual
+💻 Desarrollando aplicaciones web modernas con React y Python.
+⚙️ Integrando herramientas de IA en flujos de trabajo reales.
+🔧 Aplicando mis habilidades de diseño gráfico en experienia UI/UX
+
+---
+
+📫 Contacto
+[[LinkedIn] www.linkedin.com/in/lainneker-contreras-rubio
