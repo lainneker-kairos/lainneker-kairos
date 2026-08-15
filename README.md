@@ -2,7 +2,8 @@
 
 <p align="center"> <img width="1595" height="527" alt="banner_github" src="https://github.com/user-attachments/assets/6f130e3b-1749-4275-9c36-340a5079852e" /> </p>
 
-🚀 Full-Stack Developer | diseño UI/UX | | Passionate Problem Solver & Continuous Learner
+🚀 Full-Stack Developer | diseño UI/UX | | Passionate Problem Solver & Continuous Learner  
+
 Transformo ideas complejas en productos digitales funcionales, escalables y visualmente atractivos. Como desarrollador Full-Stack, mi enfoque une la solidez lógica del backend con experiencias interactivas y fluidas en el frontend.
 
 Mi motor diario es una profunda curiosidad técnica y el entusiasmo por resolver desafíos reales mediante código limpio, modular y eficiente. Me apasiona experimentar con nuevas arquitecturas, diseñar bases de datos optimizadas, dominar frameworks modernos y profundizar continuamente en las mejores prácticas del desarrollo de software. Para mí, cada repositorio representa una oportunidad única para investigar, iterar y elevar la calidad técnica de lo que construyo.
@@ -40,6 +41,7 @@ Si buscas un desarrollador proactivo, versátil y con una sólida motivación po
 ---
 
 🎯 Mi Foco Actual
+
 💻 Desarrollando aplicaciones web modernas con React y Python.
 ⚙️ Integrando herramientas de IA en flujos de trabajo reales.
 🔧 Aplicando mis habilidades de diseño gráfico en experienia UI/UX
