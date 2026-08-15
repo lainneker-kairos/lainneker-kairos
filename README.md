@@ -40,7 +40,7 @@ Si buscas un desarrollador proactivo, versátil y con una sólida motivación po
 
 ---
 
-🎯 Mi Foco Actual
+### 🎯 Mi Foco Actual
 
 💻 Desarrollando aplicaciones web modernas con React y Python.
 ⚙️ Integrando herramientas de IA en flujos de trabajo reales.
@@ -48,5 +48,5 @@ Si buscas un desarrollador proactivo, versátil y con una sólida motivación po
 
 ---
 
-📫 Contacto
-[[LinkedIn] www.linkedin.com/in/lainneker-contreras-rubio
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lainneker-contreras-rubio)
