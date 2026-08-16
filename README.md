@@ -42,9 +42,9 @@ Si buscas un desarrollador proactivo, versátil y con una sólida motivación po
 
 ### 🎯 Mi Foco Actual
 
-💻 Desarrollando aplicaciones web modernas con React y Python.
-⚙️ Integrando herramientas de IA en flujos de trabajo reales.
-🔧 Aplicando mis habilidades de diseño gráfico en experienia UI/UX
+💻 Desarrollando aplicaciones web modernas con React y Python.  
+⚙️ Integrando herramientas de IA en flujos de trabajo reales.  
+🔧 Aplicando mis habilidades de diseño gráfico en experienia UI/UX  
 
 ---
 
